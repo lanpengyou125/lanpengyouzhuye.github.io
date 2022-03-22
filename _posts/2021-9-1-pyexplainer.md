@@ -2,8 +2,7 @@
 layout: post
 title: PyExplainer-Explaining the Predictions of Just-In-Time Defect Models
 categories: [XAI4SE]
-excerpt:
-[Link to Full Paper](https://MichaelFu1998-create.github.io/papers/pyexplainer.pdf)
+excerpt: [Link to Full Paper](https://MichaelFu1998-create.github.io/papers/pyexplainer.pdf)
 
 [Link to GitHub Repo](https://github.com/awsm-research/PyExplainer)
 ---
