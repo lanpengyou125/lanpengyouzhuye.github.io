@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
 <center> Hi, I'm Michael. My research interest is developing AI application for Software Engineering. Feel free to contact me about my previous research or potential collaboration, I'm very happy to help. </center>
 
-## Features
+## Get in touch
 
-- email: michaelfu1998@gmail.com
+<center> - email: michaelfu1998@gmail.com </center> 
