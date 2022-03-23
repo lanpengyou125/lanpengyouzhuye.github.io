@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Michael. My research interest is developing AI application for Software Engineering. Feel free to contact me about my previous research or potential collaboration, I'm very happy to help.
+<center> Hi, I'm Michael. My research interest is developing AI application for Software Engineering. Feel free to contact me about my previous research or potential collaboration, I'm very happy to help. </center>
 
 ## Features
 
